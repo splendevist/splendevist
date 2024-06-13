@@ -2,9 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A1B6&random=false&width=435&lines=Welcome+%3C3)](https://git.io/typing-svg)
 
+---
+
 <p align="center">
   Combining my technical expertise and artistic background to create engaging and accessible web experiences
 </p>
+
+---
 
 ### Bio
 
