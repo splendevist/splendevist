@@ -2,7 +2,8 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A5B9&random=false&width=435&lines=++Combining+my+technical+expertise+and+artistic+background+to+create+engaging+and+accessible+web+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A5B9&random=false&width=435&lines=Creative+%7C+Accessible+%7C+Coding)](https://git.io/typing-svg)
+
 ---
 
 ### Bio
